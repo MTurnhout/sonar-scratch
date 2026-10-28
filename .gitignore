@@ -1,0 +1,15 @@
+# build output
+bin/
+obj/
+
+# IDEs
+.vs/
+.idea/
+*.user
+*.suo
+
+# SonarScanner for .NET's working folder
+.sonarqube/
+
+# test results
+TestResults/
